@@ -8,3 +8,4 @@ cd ./github-contributer
 
 git add .
 git commit -am $random_string
+git push -u origin master
